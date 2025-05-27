@@ -1,0 +1,6 @@
+if(a > b)
+    max = a+2;
+else if(b > c)
+    max = b;
+else
+    max = c;
